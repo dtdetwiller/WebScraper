@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1AuLLUomUDy/CxRZmZixXdPkaJo2L3OjrgFt1qChyT0qK/oS3MQ+FSS6rE3DWpe+0E1YmX+Pml7RUXkqgAd6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dtdet\\source\\repos\\WebScraper\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dtdet\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\dtdet\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\dtdet\\.nuget\\packages\\selenium.webdriver.chromedriver\\95.0.4638.5400\\selenium.webdriver.chromedriver.95.0.4638.5400.nupkg.sha512"
+  ],
+  "logs": []
+}
